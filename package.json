@@ -9,11 +9,8 @@
   },
   "dependencies": {
     "mongodb": "^4.7.0",
-    "next": "10.0.6",
-    "react": "17.0.1",
-    "react-dom": "17.0.1"
-  },
-  "devDependencies": {
-    "@types/mongodb": "^4.0.7"
+    "next": "^12.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
